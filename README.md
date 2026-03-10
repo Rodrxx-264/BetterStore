@@ -7,6 +7,7 @@
 
 A lightweight macOS app that helps users easily find and download the most common applications.
 Better Store acts as a simple app directory designed especially for people who are new to macOS and don’t know where to safely download essential software.
+![App Screenshot](img.png)
 
 **✨ Features**
 ---
